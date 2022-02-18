@@ -1,0 +1,25 @@
+.flex-auto {
+  -webkit-box-flex: 1;
+      -ms-flex: auto;
+          flex: auto;
+}
+
+.bor-line {
+  border-bottom: 2px solid transparent;
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
+}
+
+.bor-line:hover {
+  border-bottom: 2px solid yellow;
+  border-radius: 2px;
+}
+
+.my-bg-dark {
+  background-color: #171a1c;
+}
+
+.my-bg-dark1 {
+  background-color: #8a9194;
+}
+/*# sourceMappingURL=style.css.map */
